@@ -1,0 +1,122 @@
+/*This stylesheet accompanies the Rebuilding Notre Dame index.html file. */
+
+.page {
+	width: 99%;
+	background-color: #F0F8FF;
+	border-style: solid;
+	border-color: black;
+}
+
+.header {
+	font-family: 'PT Serif', serif;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	line-height: normal;
+}
+
+.header h4 {
+	font-weight: bold;
+}
+
+.header h5 {
+	color: grey;
+}
+
+.headerimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 60%;
+	width: 60%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.attribution {
+	font-family: 'PT Serif', serif;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	line-height: 75%;
+}
+
+.body {
+	font-family: 'PT Serif', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	text-align: left;
+	line-height: normal;
+	padding: 50px;
+}
+
+.img1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 40%;
+	width: 40%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.img5 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 60%;
+	width: 60%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.img4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 60%;
+	width: 60%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.img3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 60%;
+	width: 60%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.img2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 65%;
+	width: 65%;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.extrastory {
+	font-style: italic;
+	padding: 10px;
+	text-align: center;
+}
+
+.blockquote {
+	font: 20px/34px normal helvetica, sans-serif;
+	font-style: italic;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	color: grey;
+	margin-left: 50px;
+	padding-left: 15px;
+	border-left: 4px solid #ccc;
+}

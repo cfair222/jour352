@@ -1,10 +1,11 @@
 /*This stylesheet accompanies the Rebuilding Notre Dame index.html file. */
 
 .page {
-	width: 99%;
+	width: 95%;
 	background-color: #F0F8FF;
 	border-style: solid;
 	border-color: black;
+	padding: 15px;
 }
 
 .header {

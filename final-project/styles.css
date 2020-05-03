@@ -1,5 +1,7 @@
 body {
   background-color: #ffeb7f;
+  width: 80%;
+  margin: 0 auto;
 }
 
 a {
@@ -28,7 +30,7 @@ p{
   margin-top: 8px;
 }
 
-#kailaimage {
+#kailaimage img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -37,6 +39,7 @@ p{
 
 #kailaimage p {
   font-family:'Barlow Semi Condensed', sans-serif;
+  font-size: 12px;
   font-style: italic;
   text-align: center;
 }
@@ -103,6 +106,7 @@ p{
 .body5 {
   font-family:'Barlow Semi Condensed', sans-serif;
   text-align: left;
+  margin-bottom: 100px;
 }
 
 .footer {
